@@ -27,7 +27,7 @@ plt.grid()
 plt.tight_layout()
 
 # PNG画像として保存
-output_path = "440Hz_sine_wave.png"
+output_path = "output/440Hz_sine_wave.png"
 plt.savefig(output_path)
 plt.close()
 
